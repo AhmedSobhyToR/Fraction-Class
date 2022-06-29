@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1651066171 source:c:\users\user\documents\fcai\a1_p2_20200020\main.cpp
+	<iostream>
+	<fraction.h>
+	"FractionCalculator.h"
+
+1651066171 c:\users\user\documents\fcai\a1_p2_20200020\include\fraction.h
+	<iostream>
+
+1651066171 c:\users\user\documents\fcai\a1_p2_20200020\include\fractioncalculator.h
+	"fraction.h"
+
+1651066171 source:c:\users\user\documents\fcai\a1_p2_20200020\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1651066171 source:c:\users\user\documents\fcai\a1_p2_20200020\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+
+1651066172 source:c:\users\user\desktop\a1_20200669_20200020_20200827_20200483\a1_20200669_20200020_20200827_20200483\a1_p2_20200669_20200020_20200827_20200483\main.cpp
+	<iostream>
+	<fraction.h>
+	"FractionCalculator.h"
+
+1651066172 c:\users\user\desktop\a1_20200669_20200020_20200827_20200483\a1_20200669_20200020_20200827_20200483\a1_p2_20200669_20200020_20200827_20200483\include\fraction.h
+	<iostream>
+
+1651066172 c:\users\user\desktop\a1_20200669_20200020_20200827_20200483\a1_20200669_20200020_20200827_20200483\a1_p2_20200669_20200020_20200827_20200483\include\fractioncalculator.h
+	"fraction.h"
+
+1651066172 source:c:\users\user\desktop\a1_20200669_20200020_20200827_20200483\a1_20200669_20200020_20200827_20200483\a1_p2_20200669_20200020_20200827_20200483\src\fraction.cpp
+	"fraction.h"
+	<iostream>
+
+1651066172 source:c:\users\user\desktop\a1_20200669_20200020_20200827_20200483\a1_20200669_20200020_20200827_20200483\a1_p2_20200669_20200020_20200827_20200483\src\fractioncalculator.cpp
+	"FractionCalculator.h"
+
